@@ -10,7 +10,7 @@
 </div>
 
 # BerryGames - GooseBerry
-GooseBerry is the main Bungee Server plugin from BerryGames.
+GooseBerry is the main Bungee Server plugin of BerryGames.
 
 ## Support
 <a href="https://www.patreon.com/onruntime">
