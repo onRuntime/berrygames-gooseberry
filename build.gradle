@@ -1,0 +1,6 @@
+group 'net.berrygames'
+version '0.0.1'
+
+dependencies {
+    compile project(':CloudBerry')
+}

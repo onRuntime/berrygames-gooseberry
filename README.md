@@ -4,7 +4,7 @@
   <br>
   <p>
     <a href="https://discord.gg/9vedhPD"><img src="https://discordapp.com/api/guilds/623254930848874511/embed.png" alt="Discord server" ></a>
-    <a href="/../../"><img src="https://img.shields.io/github/last-commit/onRuntime/berrygames-bungee-plugin" alt="GitHub last-commit" /></a>
+    <a href="/../../"><img src="https://img.shields.io/github/last-commit/onRuntime/berrygames-gooseberry" alt="GitHub last-commit" /></a>
     <a href="https://www.patreon.com/onruntime"><img src="https://img.shields.io/badge/donate-patreon-F96854" alt="Patreon" /></a>
   </p>
 </div>
